@@ -1,6 +1,6 @@
 ### Hi, I'm Ihtisham 👋
 
-**Data Scientist who loves to play with data and has always believed that data lies at the heart of all we do as humans.**
+**Data Scientist who loves to explore and experiment with data and has always believed that data lies at the heart of all we do.**
 
 📍 Enschede, Netherlands &nbsp;·&nbsp; ✉️ ahtishamalamkhan@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/muhammad-ihtisham-alam-khan-336940152/)
 
