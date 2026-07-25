@@ -1,29 +1,28 @@
-### Hi, I'm Ihtisham 👋
+### Hi, I'm Ihtisham Khan 👋
 
-**Data Scientist who loves to explore and experiment with data and has always believed that data lies at the heart of all we do.**
+**Data Scientist and Software Engineer who loves to explore and experiment with data and has always believed that data lies at the heart of all we do.**
 
 📍 Enschede, Netherlands &nbsp;·&nbsp; ✉️ ahtishamalamkhan@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/muhammad-ihtisham-alam-khan-336940152/)
 
-I am completing a double MSc in Data Science (EIT Digital: Université de Rennes and University of Twente, 2024-2026). Before the master's I spent about 3.5 years as a software and data engineer, building backend systems, ETL pipelines, and AWS infrastructure. I care about the point where a model stops being a notebook and becomes a decision someone can act on.
-
-**Currently:** my master's thesis at Ansana on hospital supply-chain network optimization, combining mixed-integer programming (Gurobi), genetic algorithms, and discrete-event simulation to produce a client recommendation.
+I am completing a double MSc in Data Science (EIT Digital: Université de Rennes and University of Twente, 2024-2026). Before the master's I spent about 3.5 years as a software and data engineer, leading a backend team, shipping microservices and ETL pipelines on AWS, and co-founding a SaaS product. I care about the point where a model stops being a notebook and becomes a decision someone can act on, and about building the systems that carry it there.
 
 #### What I work with
-- **Machine Learning / Data Science:** Python, scikit-learn, PyTorch, pandas, statistics and experimentation
-- **Optimization / Operations Research:** Gurobi (MILP), metaheuristics, discrete-event simulation
-- **Data Engineering:** SQL, AWS, ETL, Informatica, NiFi, REST APIs
-- **Also:** Java, TypeScript / React, Docker, Git, Linux
+- **Software Engineering:** microservices, REST API design, backend architecture, full-stack development (Next.js / React / TypeScript), system design, team leadership, Agile delivery
+- **Machine Learning / Data Science:** Python, scikit-learn, PyTorch, pandas, NumPy, statistics and experimentation, predictive modelling, natural language processing, feature engineering
+- **Optimization / Operations Research:** mathematical optimization, mixed-integer programming (Gurobi), linear and integer programming, metaheuristics and genetic algorithms, discrete-event simulation, simulation-based optimization, network and supply-chain optimization
+- **Data & Cloud:** SQL, PostgreSQL, AWS, Docker, Kubernetes, ETL pipelines, Informatica, Apache NiFi, data warehousing
+- **Languages & tools:** Python, Java, TypeScript / JavaScript, C++ / C# (basic), SQL, Bash; Linux, Git
 
 #### Highlights
-- **Master's thesis, Ansana** (2026): supply-chain optimization for hospital surgical-instrument reprocessing (MILP + genetic algorithm + discrete-event simulation)
-- **Software Engineer, Aurora Solutions** (2022-2024): led a 5-person backend team building APIs, ETL, and AWS services
+- **Master's thesis - Ansana** *(private)* - supply-chain network optimization for hospital surgical-instrument reprocessing, combining mixed-integer programming (Gurobi), a genetic algorithm, and discrete-event simulation into a single client recommendation
+- **Co-Founder and CTo, Aboha** *(private)* - an FBR-compliant point-of-sale SaaS, built full-stack in Next.js / React / TypeScript and deployed on Kubernetes
+- **Software Engineer, Aurora Solutions** (2022-2024): led a 5-person backend team building microservices, APIs, ETL, and AWS services
 - **Associate Data Engineer, Teradata** (2021-2022): built Informatica and NiFi data pipelines
 
 #### Featured projects
 - **[Formula 1 race predictions](https://github.com/muhammadIhtishamKhan/f1_predictions)** - machine learning on real Formula 1 data, where my hobby and my field meet
 - **[Image recreation by polygon optimization](https://github.com/muhammadIhtishamKhan/image-recreation-by-polygon-optimization)** - approximating images with a limited set of geometric shapes using an optimization pipeline
 - **[Real-time trend and sentiment analysis](https://github.com/muhammadIhtishamKhan/Real-time-trend-and-sentiment-analysis)** - streaming NLP over live social data
-- *My master's thesis and a co-founded POS SaaS (Aboha) are private. Happy to walk through either on request.*
 
 #### Education
 - **MSc Data Science** - EIT Digital, Université de Rennes (2024-25) and University of Twente (2025-26)
