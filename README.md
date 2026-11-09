@@ -4,7 +4,7 @@
 
 📍 Enschede, Netherlands &nbsp;·&nbsp; ✉️ ahtishamalamkhan@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/muhammad-ihtisham-alam-khan-336940152/)
 
-I am completing a double MSc in Data Science (EIT Digital: Université de Rennes and University of Twente, 2024-2026). Before the master's I spent about 3.5 years as a software and data engineer, leading a backend team, shipping microservices and ETL pipelines on AWS, and co-founding a SaaS product. I care about the point where a model stops being a notebook and becomes a decision someone can act on, and about building the systems that carry it there.
+I am completing a double MSc in Data Science (EIT Digital: Université de Rennes and University of Twente, 2024-2026). Before the master's I spent about 3.5 years as a software and data engineer, leading a backend team and shipping microservices and ETL pipelines on AWS. Alongside the master's I was the founding engineer of a SaaS product. I care about the point where a model stops being a notebook and becomes a decision someone can act on, and about building the systems that carry it there.
 
 #### What I work with
 - **Software Engineering:** microservices, REST API design, backend architecture, full-stack development (Next.js / React / TypeScript), system design, team leadership, Agile delivery
@@ -15,9 +15,9 @@ I am completing a double MSc in Data Science (EIT Digital: Université de Rennes
 
 #### Highlights
 - **Master's thesis - Ansana** *(private)* - supply-chain network optimization for hospital surgical-instrument reprocessing, combining mixed-integer programming (Gurobi), a genetic algorithm, and discrete-event simulation into a single client recommendation
-- **Co-Founder and CTo, Aboha** *(private)* - an FBR-compliant point-of-sale SaaS, built full-stack in Next.js / React / TypeScript and deployed on Kubernetes
+- **Founding Engineer, Aboha** (2024-2026) *(private)* - an FBR-compliant point-of-sale SaaS, built full-stack in Next.js / React / TypeScript and deployed on Kubernetes
 - **Software Engineer, Aurora Solutions** (2022-2024): led a 5-person backend team building microservices, APIs, ETL, and AWS services
-- **Associate Data Engineer, Teradata** (2021-2022): built Informatica and NiFi data pipelines
+- **Associate Data Engineer, Teradata** (2020-2022): built Informatica and NiFi data pipelines
 
 #### Featured projects
 - **[Formula 1 race predictions](https://github.com/muhammadIhtishamKhan/f1_predictions)** - machine learning on real Formula 1 data, where my hobby and my field meet
